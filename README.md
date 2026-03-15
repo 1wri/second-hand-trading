@@ -1,5 +1,4 @@
-# 基于springboot的校园二手书交易系统带万字文档
-
+# 二手交易平台，校园二手书籍交易，社区二手交易平台，基于SpringBoot的二手商城系统，毕业设计
 
 
 ## 一、介绍
@@ -16,9 +15,10 @@
 
 ### 完整项目获取
 
-通过网盘分享的文件：校园二手书交易系统
 
-链接: https://pan.baidu.com/s/1f-H7OY3O9ks6WFf32w918A?pwd=hpxq 提取码: hpxq
+通过网盘分享的文件：二手交易平台
+
+链接: https://pan.baidu.com/s/1ah4IIYNPe2C8a721MESqAg?pwd=ytr6 提取码: ytr6
 --来自百度网盘超级会员v3的分享
 
 通过网盘分享的文件：工具包
